@@ -128,7 +128,7 @@ route:
 receivers:
   - name: pagerduty
     pagerduty_configs:
-      - routing_key: "5850cf051828410cc0df36f52348294a"
+      - routing_key: "46c97abbfcc64a07c0267a0e29f40697"
         severity: "critical"
 EOF
 
